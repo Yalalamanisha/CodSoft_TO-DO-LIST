@@ -22,6 +22,12 @@ Users can add, view, and delete tasks, with all data stored in a local file to e
 * Store tasks permanently in a text file
 * Simple and interactive command-line interface
 
+# Demo Video
+
+▶️ Watch the project demonstration here: 
+
+[Demo Vedio](https://youtu.be/ixPI44z_5Zg)
+
 # Repository Structure
 
 ```
